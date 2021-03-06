@@ -1,0 +1,6 @@
+projectKey=manage-php
+serverUrl=http://127.0.0.1:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=manage-php
+ceTaskId=AXf0WG1ZeIfc4YSdT_IF
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AXf0WG1ZeIfc4YSdT_IF
